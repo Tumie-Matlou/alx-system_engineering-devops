@@ -7,7 +7,9 @@
 
 - Shell basics
 - Shell permissions
+- Shell Redirections
 - Shell Variables and Expansions
-- 
 
-Author : Matlou T.H 
+Author : 
+
+Matlou T.H 
