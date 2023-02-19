@@ -9,8 +9,8 @@
 
 - Function of the commands head, tail, find, wc, sort, uniq, grep, tr.
 - Pipelines and filters: Pipelines(|) stack and combine commmands.
-- Special characters : *, \, $, ?, '.
-- A preceeding backslash (\) and ' ' (single quotes) suppress special characters.
+- Special characters : *, \\, $, ?, '.
+- A preceeding backslash (\\) and ' ' (single quotes) suppress special characters.
 
 # Tasks: 
 
