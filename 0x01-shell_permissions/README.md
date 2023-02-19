@@ -11,7 +11,7 @@
 - Swtching users<br>
 - Printing current user's name, printing the groups current user is in <br>
 - Copying file permissions to another file
-- -Symbolic links
+- Symbolic links
 
 # Tasks:
 
