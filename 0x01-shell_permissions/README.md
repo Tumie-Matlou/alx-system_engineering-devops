@@ -1,4 +1,4 @@
-# Permissions
+# Permissions Directory
 
 - This directory consists of concepts under shell permissions. <br>
 - Common shell commands: chmod, sudo, su, chown, chgrp, id, groups, whoami, adduser, useradd, addgroup. <br>
